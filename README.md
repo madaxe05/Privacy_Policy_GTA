@@ -1,10 +1,10 @@
 # Privacy Policy
 
-**Effective date:** [insert date]
-**App name:** [insert app name]
-**Contact:** [insert support email]
+**Effective date:** 8 jul 2026
+**App name:** Cheat Code GTA
+**Contact:** xero.by.suman@gmail.com
 
-This app ("the App") is an independent, fan-made reference tool. It is not affiliated with, endorsed by, or sponsored by Rockstar Games or Take-Two Interactive. All game titles referenced in the App are the property of their respective owners and are mentioned solely to describe compatibility.
+This app ("Cheat Code GTA") is an independent, fan-made reference tool. It is not affiliated with, endorsed by, or sponsored by Rockstar Games or Take-Two Interactive. All game titles referenced in the App are the property of their respective owners and are mentioned solely to describe compatibility.
 
 This policy explains what information the App collects, how it's used, and what choices you have.
 
@@ -52,4 +52,4 @@ We may update this policy as features change. Material changes (for example, add
 
 ## Contact
 
-Questions about this policy can be sent to [insert support email].
+Questions about this policy can be sent to xero.by.suman@gmail.com.

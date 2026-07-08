@@ -25,7 +25,6 @@ This data stays on your device. Uninstalling the App deletes it. We have no acce
 
 Like most apps, ours may receive standard technical data through the app stores and analytics/crash-reporting tools built into the platform (for example, device type, operating system version, and crash logs), used only to fix bugs and understand aggregate usage. This data is not linked to your identity and we do not use it for advertising targeting.
 
-[If you add any analytics SDK (Firebase Analytics, Google Analytics, etc.), name it here specifically and link to its own privacy policy — this section needs to match whatever you actually integrate, not what's written now.]
 
 ## Future features
 
@@ -33,10 +32,10 @@ A planned update will pull publicly available news/update content for newly rele
 
 ## Advertising
 
-[Choose the sentence that matches your actual monetization plan before publishing — these are not interchangeable:]
 
-- *If no ads:* The App does not display advertising and does not share data with ad networks.
-- *If ads:* The App displays advertising served by [ad network name, e.g. Google AdMob]. These networks may collect device identifiers and usage data under their own privacy policies, linked here: [link]. You can manage ad personalization through your device's ad settings.
+
+
+-  The App displays advertising served by [ad network name, e.g. Google AdMob]. These networks may collect device identifiers and usage data under their own privacy policies, linked here: [link]. You can manage ad personalization through your device's ad settings.
 
 ## Children's privacy
 

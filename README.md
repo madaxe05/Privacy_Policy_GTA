@@ -39,7 +39,7 @@ A planned update will pull publicly available news/update content for newly rele
 
 ## Children's privacy
 
-The App is not directed at children under 13 and does not knowingly collect data from them. Since the App collects no personal data by design, this risk is inherently low, but if you add any account system, analytics, or ads later, revisit this section and consider a dedicated children's-privacy review before doing so.
+The App is not directed at children under 5 and does not knowingly collect data from them. Since the App collects no personal data by design, this risk is inherently low, but if you add any account system, analytics, or ads later, revisit this section and consider a dedicated children's-privacy review before doing so.
 
 ## Data retention and deletion
 

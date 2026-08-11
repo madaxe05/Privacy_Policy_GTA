@@ -35,7 +35,7 @@ A planned update will pull publicly available news/update content for newly rele
 
 
 
--  The App displays advertising served by [ad network name, e.g. Google AdMob]. These networks may collect device identifiers and usage data under their own privacy policies, linked here: [link]. You can manage ad personalization through your device's ad settings.
+-  The App displays advertising served by Google AdMob. These networks may collect device identifiers and usage data under their own privacy policies. You can manage ad personalization through your device's ad settings.
 
 ## Children's privacy
 

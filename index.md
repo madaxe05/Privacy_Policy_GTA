@@ -34,9 +34,10 @@ Clearing the app's data or uninstalling the app deletes all of it.
 
 ## Community giveaways (optional)
 
-If you choose to enter a giveaway, the app sends your **name, email address, country, chosen prize, the confirmations you ticked, the number of days you opened the app during the activity period, the app version and the time of entry** to our Google Firebase (Cloud Firestore) database.
+If you choose to enter a giveaway, the app sends your **name, email address, country, chosen prize, the confirmations you ticked, the number of days you opened the app during the activity period, a one-way code made from your device ID, the app version and the time of entry** to our Google Firebase (Cloud Firestore) database.
 
 - We use it only to run that giveaway, check the winner's eligibility and contact the winner. See the [official giveaway rules](giveaway-rules).
+- The device code lets each phone enter a campaign only once. It is made on your phone from your Android device ID and the campaign; the ID itself is never sent.
 - Entries are never shown to other users, shared for marketing or sold.
 - Each entry is stored under a code made from the campaign and your email address. Anyone who already knows an email address could check whether it entered a giveaway, but could never see the entry itself.
 - Entry data is deleted within 90 days of the draw, except the winner's record, which is kept as long as needed to deliver the prize and meet legal duties.

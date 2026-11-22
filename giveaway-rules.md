@@ -25,7 +25,7 @@ The giveaway runs as separate campaigns. Each campaign has its own ID, rules ver
 ## 3. How to enter
 
 - Open the giveaway in the app (from the invite shown after opening a guide, or **Settings → Giveaway**), read these rules, choose a prize option, confirm your age and country, and submit the free entry form with your name and email address.
-- **One entry per person per campaign.** Each email address can enter a campaign once. Entering with more than one email address, or entering for someone else, disqualifies all of that person's entries.
+- **One entry per person per campaign.** Each email address and each phone can enter a campaign once. Entering with more than one email address or device, or entering for someone else, disqualifies all of that person's entries.
 - If a campaign has an **activity requirement** (for example, opening the app on a number of different days within the activity period), it is shown in the app. Days do not need to be in a row. The app counts them on your device; the winner's eligibility is checked before any prize is sent.
 - Entries must be received between the campaign's opening and closing times. Entries received outside that period are not accepted.
 
@@ -47,7 +47,7 @@ After the campaign closes, one winner is picked at random by computer from all e
 
 ## 7. Privacy
 
-Entry data (name, email, country, prize choice, confirmations, activity count, app version and entry time) is used only to run the giveaway and contact the winner, and is deleted within 90 days of the draw except the winner's record. See the [Privacy Policy](./). You can ask for your entry to be deleted at any time by email; deleting it withdraws the entry.
+Entry data (name, email, country, prize choice, confirmations, activity count, a one-way device code, app version and entry time) is used only to run the giveaway and contact the winner, and is deleted within 90 days of the draw except the winner's record. See the [Privacy Policy](./). You can ask for your entry to be deleted at any time by email; deleting it withdraws the entry.
 
 ## 8. General conditions
 
